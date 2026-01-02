@@ -1,0 +1,62 @@
+
+body{
+ background-image: url("/dominof.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+.titulo{
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: rgb(57, 61, 65);
+  
+}
+.anotes{
+  display: flex;
+  justify-content: space-around;
+}
+
+.nota{
+  background-color: blue;
+  width: 200px;
+  height: 160px;
+  
+}
+
+
+.nota{
+display: flex;
+flex-direction: column-reverse;
+}
+
+
+.bb{
+  border: none;
+  width: 200px; ;
+  height: 60px;
+  border-radius: 1px;
+}
+.bb{
+  font-size: 30px;
+  background-color: rgb(57, 61, 65);
+}
+.in{
+  width: 196px;
+  height: 100px;
+}
+.in{
+  text-align: center;
+  font-size: 30px;
+  
+  border: none;
+  border-radius: 1px;
+}
+.largo{
+  background-color: rgb(57, 61, 65);
+}
+.corto{
+  background-color: rgb(57, 61, 65);
+}
+
+
